@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pineafl-algo
 If You are looking for Python Algos, Pinescript/Tradingview, Think script, Amibroker AFL, MQL4/5, and TradeStation Easy Language Developer then you are at the right place.
 
-We have 3+ years of experience in Algos development and more than 6+ years of experience in Trading. If you hire me, you will receive superior communication, top quality clean written code, some of the fastest turnaround times on Upwork.
+I have 4+ years of experience in Algos development and more than 6+ years of experience in Trading. If you hire me, you will receive superior communication, top quality clean written code, some of the fastest turnaround times on Upwork.
 
 Just Mail us  at support@pineafl.com for your requirements.
 I can help you with things.
